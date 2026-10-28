@@ -1,0 +1,5 @@
+{"plot_id":"GD-027","crop":"Beans","steward":"Noah","weekly_quota_kg":"2.5","display_rank":1,"valid_weighins":2,"a_kg":"1.2","b_kg":"0.4","surplus_kg":"-1.3","status":"WAITING"}
+{"plot_id":"GD-082","crop":"Kale","steward":"Orla","weekly_quota_kg":"1.5","display_rank":2,"valid_weighins":1,"a_kg":"1.5","b_kg":"0.0","surplus_kg":"0.0","status":"READY"}
+{"plot_id":"GD-104","crop":"Tomatoes","steward":"Amina","weekly_quota_kg":"4.0","display_rank":3,"valid_weighins":2,"a_kg":"4.1","b_kg":"0.0","surplus_kg":"0.1","status":"READY"}
+{"plot_id":"GD-190","crop":"Peppers","steward":"Ravi","weekly_quota_kg":"2.0","display_rank":4,"valid_weighins":3,"a_kg":"3.3","b_kg":"1.8","surplus_kg":"1.3","status":"READY"}
+{"plot_id":"GD-315","crop":"Carrots","steward":"Mei","weekly_quota_kg":"3.0","display_rank":5,"valid_weighins":1,"a_kg":"2.9","b_kg":"0.0","surplus_kg":"-0.1","status":"WAITING"}
